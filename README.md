@@ -1,2 +1,2 @@
 # machinelearning
-Repositório de alguns projetos de machine learning
+Repositório para alguns projetos de machine learning
